@@ -1,0 +1,268 @@
+{
+  "format": "nirc-race-pace-plan",
+  "schemaVersion": 1,
+  "name": "나주빛달 풀 대회 페이스표 (이미지 복원)",
+  "race": "full",
+  "goal": 10723,
+  "segments": [
+    {
+      "len": 1,
+      "base": 4,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 4,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 4,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 4,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 10,
+      "terrain": "up2"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 10,
+      "terrain": "up2"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 10,
+      "terrain": "up2"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 10,
+      "terrain": "up2"
+    },
+    {
+      "len": 1,
+      "base": -1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": -1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": -1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": -1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": -1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 1,
+      "base": 1,
+      "extra": 0,
+      "terrain": "flat"
+    },
+    {
+      "len": 0.195,
+      "base": 0,
+      "extra": 0,
+      "terrain": "flat"
+    }
+  ],
+  "savedAt": "2026-11-04T02:43:42.782939+00:00"
+}
